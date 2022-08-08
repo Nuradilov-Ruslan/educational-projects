@@ -3,6 +3,6 @@
 В репозитории представлены проекты, выполненные мной в рамках обучения на программе "Специалист Data Science"  от Яндекс.Практикум
 | Название проекта      | Описание проекта      |
 | :-------------------- | :-------------------- |
-|[ Прогнозирование оттока клиента банка](https://github.com/Nuradilov-Ruslan/educational-projects/tree/main/Customer-outflow)| На основе данных из банка определить клиент, который может уйти |
+|[ Прогнозирование оттока клиента банка](https://github.com/Nuradilov-Ruslan/educational-projects/tree/main/Customer-outflow)| На основе данных из банка определить клиента, который может уйти |
 |[ Построение модели определения стоимости автомобиля ](https://github.com/Nuradilov-Ruslan/educational-projects/tree/main/Definition-prices)| Разработка системы рекомендации стоимости автомобиля на основе его описания |
 |[ Исследование технологического процесса очистки золота](https://github.com/Nuradilov-Ruslan/educational-projects/tree/main/Gold-recovery)| Прогнозирование концентрации золота при проведении процесса очистки золота |
